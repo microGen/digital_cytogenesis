@@ -6,3 +6,6 @@ This is an experimental repository to demonstrate the variable density / functio
 
 ### Warning
 Due to a bug in the Cell Fracture plugin, the size of the objects is limited, else overlaps in individual cells will occur. However, fractured objects can later be scaled up to final dimensions without problems.
+
+## License
+All files in this repository are licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) http://creativecommons.org/licenses/by-sa/4.0/

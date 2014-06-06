@@ -3,3 +3,6 @@
 
 # no temporary files
 *~
+
+# no gcode files
+*.gcode

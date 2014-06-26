@@ -1,5 +1,9 @@
 # not necessary to include Blender backup file versions
-*.blend[1-9]
+*.blend?*
 
 # no temporary files
 *~
+
+# no .gcode files
+
+*.gcode

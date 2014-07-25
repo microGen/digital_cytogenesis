@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	0+27
+Open File for Skeinforge	/home/ugen/3D/hexagon_voronoi.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
